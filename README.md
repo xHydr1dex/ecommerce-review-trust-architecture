@@ -20,7 +20,7 @@ This system was architected and implemented by xHydr1dex.
 - [`architecture/`](architecture/architecture.md): System design & diagrams
 - [`data_modeling/`](data_modeling/): Data and modeling details
 - [`deployment/`](deployment/deployment.md): Deployment and monitoring setup
-- [`contributions.md`](contributions.md): My contributions to the project
+- [`contributors/`](contributors/): Contributions to the project
 // [`handoff_notes.md`](handoff_notes.md): Remaining work and handoff info
 
 ---
